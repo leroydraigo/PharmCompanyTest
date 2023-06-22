@@ -1,0 +1,8 @@
+C:\Users\Leon\source\repos\PharmCompany\bin\Debug\PharmCompany.exe.config
+C:\Users\Leon\source\repos\PharmCompany\bin\Debug\PharmCompany.exe
+C:\Users\Leon\source\repos\PharmCompany\bin\Debug\PharmCompany.pdb
+C:\Users\Leon\source\repos\PharmCompany\obj\Debug\PharmCompany.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\PharmCompany\obj\Debug\PharmCompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leon\source\repos\PharmCompany\obj\Debug\PharmCompany.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\PharmCompany\obj\Debug\PharmCompany.exe
+C:\Users\Leon\source\repos\PharmCompany\obj\Debug\PharmCompany.pdb
