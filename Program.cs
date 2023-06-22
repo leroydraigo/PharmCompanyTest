@@ -47,6 +47,7 @@ namespace PharmCompany
                         Console.WriteLine("Количество товара во всех складах аптеки:");
                         Product product = new Product(DBconnect());
                         product.ShowPharmacyAmount();
+                        DBconnect().Close();
                         Main();
                         break;
                     case 6:
@@ -76,6 +77,7 @@ namespace PharmCompany
                     table.Show();
                     break;
             }
+            DBconnect().Close();
             Main();
         }
 
